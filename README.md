@@ -1,4 +1,4 @@
-##JWT Authentication + PostgresQL + Express
+## JWT Authentication + PostgresQL + Express
 
 This is a simple demo of JWT Authentication with Express and Node.js
 
