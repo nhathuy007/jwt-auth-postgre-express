@@ -9,7 +9,7 @@ $ npm install
 ```
 Setup the Environment:
 
-1. Execute the postgresql script.
+1. Execute the SQL script ```interview.sql ``` file.
 2. Change the information of Postgresql in ```db.js ``` file.
 3. Change the Express server port to the desire port in ``server.js`` file.
 
